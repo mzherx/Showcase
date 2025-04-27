@@ -59,7 +59,7 @@ Cryptico is a modern cryptocurrency website providing real-time data on crypto p
 
 ## 📸 Project 1: Multi-Field Portfolio
 
-![Business Website Screenshot](./business1.png)
+![Business Website Screenshot](./portfolio1.gif)
 
 **Description:**  
 A dynamic and versatile portfolio website for professionals across multiple fields, showcasing skills, projects, and achievements in a sleek, customizable design.
