@@ -14,8 +14,7 @@ Here you'll find a showcase of all the Projects I've built, with a preview, desc
 
 ---
 
-
-# 🚀 Multi-Tier Web App
+# 🚀 Multi-Tier Web Applications
 
 ## 📸 Project 1: Prodigy - MERN Stack Job Portal
 
@@ -30,7 +29,7 @@ A modern job portal application where recruiters/companies can post jobs and app
 - Mongoose
 - Clerk (Authentication)
 
-🔗 https://prodigy-portal.vercel.app 
+🔗 [Live Demo](https://prodigy-portal.vercel.app)
 
 ---
 
@@ -39,7 +38,7 @@ A modern job portal application where recruiters/companies can post jobs and app
 ![Startup Website Screenshot](./images/startup1.png)
 
 **Description:**  
-Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface
+Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface.
 
 **Tech Stack:**  
 - React
@@ -47,7 +46,11 @@ Cryptico is a modern cryptocurrency website providing real-time data on crypto p
 - React Chart
 - CoinGecko API
 
-🔗 https://crypticoo.vercel.app
+🔗 [Live Demo](https://crypticoo.vercel.app)
+
+---
+
+[🔝 Back to Top](#📑-table-of-contents)
 
 ---
 
@@ -65,49 +68,60 @@ A dynamic and versatile portfolio website for professionals across multiple fiel
 - Swiper.js
 - Next.js
 
-🔗 https://mazher.vercel.app
+🔗 [Live Demo](https://mazher.vercel.app)
+
+---
+
+[🔝 Back to Top](#📑-table-of-contents)
 
 ---
 
 # 🎨 E-commerce Websites
 
-## 📸 Project 3: [Portfolio Website Name]
-
-![Portfolio Website Screenshot](./images/portfolio1.png)
-
-**Description:**  
-_A creative portfolio template for freelancers and designers._
-
-**Tech Stack:**  
-- HTML
-- CSS
-- JavaScript
-
-[🔗 Live Demo](#) 
+_(Coming Soon: Adding E-commerce websites soon!)_
 
 ---
 
-# 🛒 Startup Websites
+[🔝 Back to Top](#📑-table-of-contents)
+
+---
+
+# 🚀 Startup Websites
 
 ## 📸 Project 1: Fibank UI Project
 
 ![E-commerce Website Screenshot](./images/ecommerce1.png)
 
 **Description:**  
-A clean, modern UI for a financial & Banking application built with HTML, CSS, and Express.js for routing.
+A clean, modern UI for a financial & banking application built with HTML, CSS, and Express.js for routing.
 
 **Tech Stack:**  
 - JavaScript
 - Express.js
 
-## 📸 Project 1: Cyperg AI Agency
+🔗 _Coming Soon_
+
+---
+
+## 📸 Project 2: Cyperg AI Agency
 
 ![E-commerce Website Screenshot](./images/ecommerce1.png)
 
 **Description:**  
-A clean, modern UI for a AI Agency application built with Framer
+A clean, modern UI for an AI Agency application built with Framer.
 
-
-🔗 https://cyberg-mazher.framer.ai/
+🔗 [Live Demo](https://cyberg-mazher.framer.ai/)
 
 ---
+
+[🔝 Back to Top](#📑-table-of-contents)
+
+---
+
+# 🧩 Other Websites
+
+_(Coming Soon: Adding more miscellaneous projects!)_
+
+---
+
+[🔝 Back to Top](#📑-table-of-contents)
