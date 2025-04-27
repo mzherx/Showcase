@@ -84,7 +84,7 @@ A dynamic and versatile portfolio website for professionals Developer build with
 
 ---
 
-[🔝 Back to Top](#📑-table-of-contents)
+
 
 ---
 
@@ -94,7 +94,7 @@ _(Coming Soon: Adding E-commerce websites soon!)_
 
 ---
 
-[🔝 Back to Top](#📑-table-of-contents)
+
 
 ---
 
@@ -126,7 +126,6 @@ A clean, modern UI for an AI Agency application built with Framer.
 
 ---
 
-[🔝 Back to Top](#📑-table-of-contents)
 
 ---
 
@@ -142,4 +141,3 @@ A clean, modern UI for a Blogging Site built with React, GSAP, and Express.js fo
 
 ---
 
-[🔝 Back to Top](#📑-table-of-contents)
