@@ -30,7 +30,24 @@ A modern job portal application where recruiters/companies can post jobs and app
 - Mongoose
 - Clerk (Authentication)
 
-[🔗 https://prodigy-portal.vercel.app ]
+🔗 https://prodigy-portal.vercel.app 
+
+---
+
+## 📸 Project 2: Cryptico
+
+![Startup Website Screenshot](./images/startup1.png)
+
+**Description:**  
+Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface
+
+**Tech Stack:**  
+- React
+- Tailwind CSS
+- React Chart
+- CoinGecko API
+
+🔗 https://crypticoo.vercel.app
 
 ---
 
