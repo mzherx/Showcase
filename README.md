@@ -35,6 +35,7 @@ A modern job portal application where recruiters/companies can post jobs and app
 
 ## 📸 Project 2: Cryptico
 
+![Startup Website Screenshot](./cryptico.gif)
 
 **Description:**  
 Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface.
@@ -44,6 +45,7 @@ Cryptico is a modern cryptocurrency website providing real-time data on crypto p
 - Tailwind CSS
 - React Chart
 - CoinGecko API
+
 
 🔗 [Live Demo](https://crypticoo.vercel.app)
 
