@@ -27,9 +27,10 @@ A modern job portal application where recruiters/companies can post jobs and app
 **Tech Stack:**  
 - React
 - Tailwind CSS
-- Vercel
+- Mongoose
+- Clerk (Authentication)
 
-[🔗 Live Demo](#) 
+[🔗 https://prodigy-portal.vercel.app ]
 
 ---
 
