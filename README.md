@@ -18,7 +18,7 @@ Here you'll find a showcase of all the Projects I've built, with a preview, desc
 
 ## 📸 Project 1: Prodigy - MERN Stack Job Portal  
 
-![Startup Website Screenshot](./images/startup1.png)
+![Startup Website Screenshot](./startup1.png)
 
 **Description:**  
 A modern job portal application where recruiters/companies can post jobs and applicants can search/apply for opportunities.
@@ -35,7 +35,7 @@ A modern job portal application where recruiters/companies can post jobs and app
 
 ## 📸 Project 2: Cryptico
 
-![Startup Website Screenshot](./images/cryptico.gif)
+![Startup Website Screenshot](./cryptico.gif)
 
 **Description:**  
 Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface.
@@ -58,7 +58,7 @@ Cryptico is a modern cryptocurrency website providing real-time data on crypto p
 
 ## 📸 Project 1: Multi-Field Portfolio
 
-![Business Website Screenshot](./images/business1.png)
+![Business Website Screenshot](./business1.png)
 
 **Description:**  
 A dynamic and versatile portfolio website for professionals across multiple fields, showcasing skills, projects, and achievements in a sleek, customizable design.
@@ -90,7 +90,7 @@ _(Coming Soon: Adding E-commerce websites soon!)_
 
 ## 📸 Project 1: Fibank UI Project
 
-![E-commerce Website Screenshot](./images/fibank.gif)
+![E-commerce Website Screenshot](./fibank.gif)
 
 **Description:**  
 A clean, modern UI for a financial & banking application built with HTML, CSS, and Express.js for routing.
@@ -105,7 +105,7 @@ A clean, modern UI for a financial & banking application built with HTML, CSS, a
 
 ## 📸 Project 2: Cyperg AI Agency
 
-![E-commerce Website Screenshot](./images/ecommerce1.png)
+![E-commerce Website Screenshot](./ecommerce1.png)
 
 **Description:**  
 A clean, modern UI for an AI Agency application built with Framer.
@@ -122,7 +122,7 @@ A clean, modern UI for an AI Agency application built with Framer.
 
 ## 📸 Project 1: Fibank UI Project
 
-![E-commerce Website Screenshot](./images/blogging.gif)
+![E-commerce Website Screenshot](./blogging.gif)
 
 **Description:**  
 A clean, modern UI for a Blogging Site built with React, GSAP, and Express.js for routing.
