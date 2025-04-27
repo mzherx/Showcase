@@ -18,7 +18,7 @@ Here you'll find a showcase of all the Projects I've built, with a preview, desc
 
 ## 📸 Project 1: Prodigy - MERN Stack Job Portal  
 
-![Startup Website Screenshot](./startup1.png)
+![Startup Website Screenshot](./Prodigy.gif)
 
 **Description:**  
 A modern job portal application where recruiters/companies can post jobs and applicants can search/apply for opportunities.
