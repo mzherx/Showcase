@@ -69,7 +69,7 @@ A dynamic and versatile portfolio website for professionals across multiple fiel
 
 ---
 
-# 🎨 Portfolio Websites
+# 🎨 E-commerce Websites
 
 ## 📸 Project 3: [Portfolio Website Name]
 
@@ -87,20 +87,27 @@ _A creative portfolio template for freelancers and designers._
 
 ---
 
-# 🛒 E-commerce Websites
+# 🛒 Startup Websites
 
-## 📸 Project 4: [E-commerce Website Name]
+## 📸 Project 1: Fibank UI Project
 
 ![E-commerce Website Screenshot](./images/ecommerce1.png)
 
 **Description:**  
-_A modern online store template designed for product sales._
+A clean, modern UI for a financial & Banking application built with HTML, CSS, and Express.js for routing.
 
 **Tech Stack:**  
-- Shopify
-- Liquid
-- Tailwind CSS
+- JavaScript
+- Express.js
 
-[🔗 Live Demo](#) 
+## 📸 Project 1: Cyperg AI Agency
+
+![E-commerce Website Screenshot](./images/ecommerce1.png)
+
+**Description:**  
+A clean, modern UI for a AI Agency application built with Framer
+
+
+🔗 https://cyberg-mazher.framer.ai/
 
 ---
