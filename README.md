@@ -16,7 +16,7 @@ Here you'll find a showcase of all the Projects I've built, with a preview, desc
 
 # 🚀 Multi-Tier Web Applications
 
-## 📸 Project 1: Prodigy - MERN Stack Job Portal
+## 📸 Project 1: Prodigy - MERN Stack Job Portal  
 
 ![Startup Website Screenshot](./images/startup1.png)
 
@@ -35,7 +35,7 @@ A modern job portal application where recruiters/companies can post jobs and app
 
 ## 📸 Project 2: Cryptico
 
-![Startup Website Screenshot](./images/startup1.png)
+![Startup Website Screenshot](./images/cryptico.gif)
 
 **Description:**  
 Cryptico is a modern cryptocurrency website providing real-time data on crypto prices, market trends, and more. Built with a sleek design and user-friendly interface.
@@ -90,7 +90,7 @@ _(Coming Soon: Adding E-commerce websites soon!)_
 
 ## 📸 Project 1: Fibank UI Project
 
-![E-commerce Website Screenshot](./images/ecommerce1.png)
+![E-commerce Website Screenshot](./images/fibank.gif)
 
 **Description:**  
 A clean, modern UI for a financial & banking application built with HTML, CSS, and Express.js for routing.
@@ -120,7 +120,13 @@ A clean, modern UI for an AI Agency application built with Framer.
 
 # 🧩 Other Websites
 
-_(Coming Soon: Adding more miscellaneous projects!)_
+## 📸 Project 1: Fibank UI Project
+
+![E-commerce Website Screenshot](./images/blogging.gif)
+
+**Description:**  
+A clean, modern UI for a Blogging Site built with React, GSAP, and Express.js for routing.
+
 
 ---
 
