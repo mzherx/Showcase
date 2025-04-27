@@ -51,21 +51,21 @@ Cryptico is a modern cryptocurrency website providing real-time data on crypto p
 
 ---
 
-# 🏢 Business Websites
+# 🏢 Portfolio Websites
 
-## 📸 Project 2: [Business Website Name]
+## 📸 Project 1: Multi-Field Portfolio
 
 ![Business Website Screenshot](./images/business1.png)
 
 **Description:**  
-_A clean and professional business website template perfect for small companies._
+A dynamic and versatile portfolio website for professionals across multiple fields, showcasing skills, projects, and achievements in a sleek, customizable design.
 
 **Tech Stack:**  
+- Express.js
+- Swiper.js
 - Next.js
-- Node.js
-- Sass
 
-[🔗 Live Demo](#) 
+🔗 https://mazher.vercel.app
 
 ---
 
