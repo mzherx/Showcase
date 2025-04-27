@@ -15,14 +15,14 @@ Here you'll find a showcase of all the Projects I've built, with a preview, desc
 ---
 
 
-# 🚀 Startup Websites
+# 🚀 Multi-Tier Web App
 
-## 📸 Project 1: [Startup Website Name]
+## 📸 Project 1: Prodigy - MERN Stack Job Portal
 
 ![Startup Website Screenshot](./images/startup1.png)
 
 **Description:**  
-_A powerful landing page template for startups, featuring modern design and responsiveness._
+A modern job portal application where recruiters/companies can post jobs and applicants can search/apply for opportunities.
 
 **Tech Stack:**  
 - React
