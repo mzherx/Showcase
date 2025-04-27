@@ -117,7 +117,7 @@ A clean, modern UI for a financial & banking application built with HTML, CSS, a
 
 ## 📸 Project 2: Cyberg AI Agency
 
-![E-commerce Website Screenshot](./cyburg.gif)
+![E-commerce Website Screenshot](./cyberg.gif)
 
 **Description:**  
 A clean, modern UI for an AI Agency application built with Framer.
