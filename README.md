@@ -3,6 +3,12 @@
 Welcome to my collection of Projects!  
 Here you'll find a showcase of all the Projects I've built, with a preview, description, and the tech stack used.
 
+# 📑 Table of Contents
+- [🚀 Startup Websites](#-startup-websites)
+- [🏢 Business Websites](#-business-websites)
+- [🎨 Portfolio Websites](#-portfolio-websites)
+- [🛒 E-commerce Websites](#-e-commerce-websites)
+
 # 🚀 Startup Websites
 
 ## 📸 Project 1: [Startup Website Name]
