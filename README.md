@@ -71,6 +71,17 @@ A dynamic and versatile portfolio website for professionals across multiple fiel
 
 🔗 [Live Demo](https://mazher.vercel.app)
 
+## 📸 Project 2: Developer Portfolio
+
+![Business Website Screenshot](./portfolio2.gif)
+
+**Description:**  
+A dynamic and versatile portfolio website for professionals Developer build with Framer .
+
+
+
+🔗 [Live Demo](https://mazher.framer.ai)
+
 ---
 
 [🔝 Back to Top](#📑-table-of-contents)
@@ -104,9 +115,9 @@ A clean, modern UI for a financial & banking application built with HTML, CSS, a
 
 ---
 
-## 📸 Project 2: Cyperg AI Agency
+## 📸 Project 2: Cyberg AI Agency
 
-![E-commerce Website Screenshot](./ecommerce1.png)
+![E-commerce Website Screenshot](./cyburg.gif)
 
 **Description:**  
 A clean, modern UI for an AI Agency application built with Framer.
