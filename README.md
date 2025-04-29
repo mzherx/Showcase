@@ -102,6 +102,7 @@ _(Coming Soon: Adding E-commerce websites soon!)_
 
 ## 📸 Project 1: Fibank UI Project
 
+
 ![E-commerce Website Screenshot](./fibank.gif)
 
 **Description:**  
