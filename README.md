@@ -112,7 +112,7 @@ A clean, modern UI for a financial & banking application built with HTML, CSS, a
 - JavaScript
 - Express.js
 
-🔗 _Coming Soon_
+🔗 [Live Demo](https://fiibank.vercel.app/)
 
 ---
 
@@ -132,7 +132,7 @@ A clean, modern UI for an AI Agency application built with Framer.
 
 # 🧩 Other Websites
 
-## 📸 Project 1: Fibank UI Project
+## 📸 Project 1: Blogging Website
 
 ![E-commerce Website Screenshot](./blogging.gif)
 
