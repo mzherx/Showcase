@@ -123,7 +123,7 @@ A clean, modern UI for a financial & banking application built with HTML, CSS, a
 **Description:**  
 A clean, modern UI for an AI Agency application built with Framer.
 
-🔗 [Live Demo](https://cyberg-mazher.framer.ai/)
+🔗 [Live Demo](https://cyberg-mazher.framer.website/)
 
 ---
 
